@@ -1,4 +1,3 @@
-Here's how you can structure the **README** to explain the code, including details about its functionality, no external library usage, and the error handling mechanism (EADDRINUSE):
 
 ---
 
