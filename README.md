@@ -88,4 +88,3 @@ Feel free to fork this repository, submit issues, or open pull requests if you'd
 
 ---
 
-This **README** provides a clear explanation of what the code does, the features it offers, and the benefits of error handling, colorized logging, and no external dependencies.
